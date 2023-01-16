@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": "associatedpress",
+        "name": "Associated Press"
+      },
+      "author": "Frank Jordans",
+      "title": "Germany: Iranian detained, suspected of chemical attack plot  The Associated Press",
+      "description": "BERLIN (AP) — A 32yearold Iranian man has been detained in Germany on suspicion of planning an attack with deadly chemicals, officials said Sunday. Police and prosecutors said the man and another person were detained overnight in the town of CastropRauxel,…",
+      "url": "https://apnews.com/article/dortmundcrimeirangovernmentberlin60f78b43bcb21e6aa8b4e43976ec4cb5",
+      "urlToImage": "https://storage.googleapis.com/afsprod/media/a54e305095fc4c989b2eb9a1a4d8a788/3000.webp",
+      "publishedAt": "20230108T13:40:01Z",
+      "content": "BERLIN (AP) A 32yearold Iranian man has been detained in Germany on suspicion of planning an attack with deadly chemicals, officials said Sunday.\r\nPolice and prosecutors said the man and another pe… [+2192 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Kevin McCarthy Wins House Speaker Bid On 15th Try | US House Speaker Election News | US News LIVE  CNNNews18",
+      "description": "Kevin McCarthy Wins House Speaker Bid On 15th Try | US House Speaker Election News | US News LIVEApplause and chants of “USA” were heard as Republican Kevin ...",
+      "url": "https://www.youtube.com/watch?v=6BuzsQM7cK8",
+      "urlToImage": "https://i.ytimg.com/vi/6BuzsQM7cK8/maxresdefault_live.jpg",
+      "publishedAt": "20230108T13:01:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Xiaofei Xu",
+      "title": "40 dead, many injured in Senegal bus crash, president says  CNN",
+      "description": "At least 40 people were killed Sunday and many others seriously injured in a bus crash in central Senegal, according to the country's president.",
+      "url": "https://www.cnn.com/2023/01/08/africa/senegalbuscollisionintl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230108072503senegalbuscrashmap.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "20230108T12:29:00Z",
+      "content": "At least 40 people were killed Sunday and many others seriously injured in a bus crash in central Senegal, according to the countrys president. \r\nI am deeply saddened by todays tragic road accident i… [+751 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Rishi Sunak refuses to say if he uses private GP  BBC",
+      "description": "The PM says his healthcare is \"a personal choice\", as a union leader urges him to \"come clean\".",
+      "url": "https://www.bbc.com/news/ukpolitics64202855",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10D95/production/_128231096_sunak1.jpg",
+      "publishedAt": "20230108T12:05:30Z",
+      "content": "Media caption, Watch: Rishi Sunak refuses to to say if he is registered with private GP\r\nPrime Minister Rishi Sunak has repeatedly refused to say whether he uses private healthcare, insisting it is \"… [+3186 chars]"
+    },
+    {
+      "source": {
+        "id": "thewashingtonpost",
+        "name": "The Washington Post"
+      },
+      "author": "Bryan Pietsch, Karishma Mehrotra",
+      "title": "Wells Fargo executive arrested, accused of urinating on plane passenger  The Washington Post",
+      "description": "Shankar Mishra is accused of urinating on an elderly woman while inebriated on an Air India flight from New York to New Delhi.",
+      "url": "https://www.washingtonpost.com/world/2023/01/08/shankarmishrawellsfargoflighturination/",
+      "urlToImage": "https://www.washingtonpost.com/wpapps/imrs.php?src=https://arcanglerfishwashpostprodwashpost.s3.amazonaws.com/public/GXP7WDUONUI63ODKFY5HOM3LRY.jpg&w=1440",
+      "publishedAt": "20230108T12:01:00Z",
+      "content": "Comment on this story\r\nAn executive at Wells Fargos operations in India was fired and is being held following allegations that he urinated on an elderly woman during a flight from New York to New Del… [+4028 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Robert Reich",
+      "title": "The US should break up monopolies – not punish working Americans for rising prices  The Guardian",
+      "description": "The Fed is putting people out of work to reduce workers’ bargaining power and reduce inflation. They’ve got it all wrong",
+      "url": "https://www.theguardian.com/commentisfree/2023/jan/08/usmonopoliesinflationunemploymentrisingpricesfederalreserve",
+      "urlToImage": "https://i.guim.co.uk/img/media/c8370df3bcfba765b08d3b167358d2f906bb5bb3/386_0_4200_2520/master/4200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlayalign=bottom%2Cleft&overlaywidth=100p&overlaybase64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=8d74c70e5bb6be215d5afdaa8f2f068a",
+      "publishedAt": "20230108T11:19:00Z",
+      "content": "Job growth and wages are slowing. Employers added 223,000 jobs in December, the labor department reported on Friday lower than the average in recent months.\r\nAverage hourly wages rose by 4.6% in Dece… [+4719 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Tereza Pultarova",
+      "title": "NASA's moonorbiting space station will be claustrophobic, architect admits  Space.com",
+      "description": "\"It's essentially just a corridor, where you have to turn 90 degrees if you want to stretch out.\"",
+      "url": "https://www.space.com/lunargatewaystationclaustrophobicarchitectsays",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vgRR4xZfYztqRXWpkxgFbc120080.jpg",
+      "publishedAt": "20230108T11:00:35Z",
+      "content": "Living quarters of NASA's moon orbiting Gateway station will be so tiny that astronauts will not be able to stand upright inside, an architect involved in the station's design said. \r\nNASA and its in… [+5146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Michael David Smith",
+      "title": "Patriots, Dolphins, Steelers vying for final AFC playoff spot  NBC Sports",
+      "description": "Six of the seven AFC playoff berths have been earned, and three teams are still competing for the seventh and final spot in the playoffs: New England, Miami and Pittsburgh.Here are the scenarios for today’s season finale:If the Patriots beat the Bills, the Pa…",
+      "url": "https://profootballtalk.nbcsports.com/2023/01/08/patriotsdolphinssteelersvyingforfinalafcplayoffspot/",
+      "urlToImage": "https://profootballtalk.nbcsports.com/wpcontent/uploads/sites/25/2023/01/GettyImages1246017572e1673174993203.jpg",
+      "publishedAt": "20230108T10:50:00Z",
+      "content": "Six of the seven AFC playoff berths have been earned, and three teams are still competing for the seventh and final spot in the playoffs: New England, Miami and Pittsburgh.\r\nHere are the scenarios fo… [+554 chars]"
+    },
+    {
+      "source": {
+        "id": "associatedpress",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Travelers rush to take advantage of China reopening  The Associated Press  en Español",
+      "description": "BEIJING (AP) — After years of separation from his wife in mainland China, Hong Kong resident Cheung Sengbun made sure to be among the first in line following the reopening Sunday of border crossing points.",
+      "url": "https://apnews.com/article/healthchinahongkongbeijingbusiness49e31dedb78fd24c1077b340ebdafa1f",
+      "urlToImage": "https://storage.googleapis.com/afsprod/media/03869cd2a91742818c82884608d0eadc/3000.webp",
+      "publishedAt": "20230108T08:48:45Z",
+      "content": "BEIJING (AP) After years of separation from his wife in mainland China, Hong Kong resident Cheung Sengbun made sure to be among the first in line following the reopening Sunday of border crossing po… [+7469 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YourTango"
+      },
+      "author": "Kate Rose",
+      "title": "The 4 Zodiac Signs Who Fall Out Of Love & End Relationships Starting January 9, 2023  YourTango",
+      "description": "As Mars turns direct, four zodiac signs in astrology will fall out of love and end relationships starting January 9  15, 2023.",
+      "url": "https://www.yourtango.com/2023357468/4zodiacsignswhofalloutloveendrelationshipsstartingjanuary92023",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/styles/listing_big/public/image_blog/zodiacsignsfalloutloveendrelationshipsjanuary9152023.png?itok=Dm50wNUc",
+      "publishedAt": "20230108T08:02:57Z",
+      "content": "As Mars turns direct within the air sign of Gemini, the feeling of having to bide your time within relationships that have already ended ends.\r\nMars is the planet of motivation and action, and its re… [+7410 chars]"
+    },
+    {
+      "source": {
+        "id": "foxnews",
+        "name": "Fox News"
+      },
+      "author": "Landon Mion",
+      "title": "Avalanche in Colorado leaves one person dead, another still buried, sheriff's office says  Fox News",
+      "description": "An avalanche in Colorado left one person dead on Saturday, and rescue teams are still searching for another victim. Rescue efforts will continue on Sunday.",
+      "url": "https://www.foxnews.com/us/avalanchecoloradoleavesonepersondeadanotherstillburiedsheriffsofficesays",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/avalanche2.png",
+      "publishedAt": "20230108T08:00:00Z",
+      "content": "One person died in an avalanche in Colorado on Saturday and rescue teams are still searching for another victim buried in the snow.\r\nAccording to the Grand County Sheriff's Office, Search and Rescue … [+2009 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WJXT News4JAX"
+      },
+      "author": "Justin Barney",
+      "title": "Not a dream: Jaguars complete worsttofirst mission, win AFC South  WJXT News4JAX ",
+      "description": "From worst to first, from laughingstock to the real deal. The Jaguars — yes, the Jaguars! — are champions of the AFC South.",
+      "url": "https://www.news4jax.com/sports/2023/01/08/believeitjaguarsgofromworsttofirstwinafcsouth/",
+      "urlToImage": "https://res.cloudinary.com/grahammediagroup/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/NIEKTAFKR5FGROU4EX2QYPIANU.jpg?_a=ATO2Bfe0",
+      "publishedAt": "20230108T07:29:07Z",
+      "content": "JACKSONVILLE, Fla. Worst to first. \r\nLaughingstock to the real deal.\r\nHome for the playoffs to hosting a playoff game. \r\nThe Jaguars yes, the Jaguars! are champions of the AFC South and headed to the… [+7183 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Mike Coppinger",
+      "title": "Gervonta Davis scores TKO as Hector Luis Garcia quits before 9th  ESPN",
+      "description": "Gervonta Davis rocked Hector Luis Garcia with a hard left hand at the end of Round 8 and earned a TKO victory when Garcia couldn't come out for the ninth.",
+      "url": "https://www.espn.com/boxing/story/_/id/35403800/gervontadavisscorestkohectorluisgarciaquits9th",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0108%2Fr1114916_1296x729_16%2D9.jpg",
+      "publishedAt": "20230108T07:18:54Z",
+      "content": "Gervonta \"Tank\" Davis rocked Hector Luis Garcia with a left hand in the closing moments of Round 8, prompting the underdog to retire on his stool ahead of the ninth round Saturday in Washington, D.C.… [+5015 chars]"
+    },
+    {
+      "source": {
+        "id": "foxnews",
+        "name": "Fox News"
+      },
+      "author": "Lawrence Richard",
+      "title": "Father of slain student Kaylee Goncalves comments on suspected Idaho murderer: 'Looked like a normal guy'  Fox News",
+      "description": "Kaylee Goncalves’s father Steve said he believed Bryan Kohberger, the 28yearold lone suspect in a quadruple homicide in Moscow, Idaho, would look differently.",
+      "url": "https://www.foxnews.com/us/fatherslainstudentkayleegoncalvescommentssuspectedidahomurderernormalguy",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/THUMBGONCALVESIDAHO.jpg",
+      "publishedAt": "20230108T05:19:00Z",
+      "content": "The father of one of the four college students that were stabbed to death in Moscow, Idaho, said he did not imagine suspected murderer Bryan Kohberger to look the way he does.\r\nKaylee Goncalvess fath… [+5524 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Joseph Kaminski, Daniel Van Boom",
+      "title": "The Best EVs, Electric Bikes and Rideables We Saw at CES 2023  CNET",
+      "description": "At CES we saw a seriously sexy new Mercedes Benz, a motorcycle that looks like it could have been in Tron, and a BMW that wants to be your friend.",
+      "url": "https://www.cnet.com/roadshow/news/thebestevselectricbikesandrideableswesawatces2023/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/377f1aee0a2abad2f73fed06986feb25d2a5952b/hub/2023/01/04/98402200acf24c4b9dbd6e2e4389830d/2icomakvsideview2.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "20230108T04:46:00Z",
+      "content": "Each year at CES the world's biggest and most innovative companies showcase exciting (and sometimes very strange) tech for your house, from impressive TVs to clever kitchen gadgets. But CES is also w… [+5973 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "Sean Payton rumors: Broncos and Saints reportedly see eye to eye on potential trade compensation for coach  CBS Sports",
+      "description": "Denver has officially shown interest in the former New Orleans coach and reportedly is willing to meet the Saints' asking price for him",
+      "url": "https://www.cbssports.com/nfl/news/seanpaytonrumorsbroncosandsaintsreportedlyseeeyetoeyeonpotentialtradecompensationforcoach/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2019/11/29/2858bb27f8d148f2b167fb29a8e26844/thumbnail/1200x675/4b61dbca8ff9fb1eeed29498a5d3f4ba/seanpaytonsaints.jpg",
+      "publishedAt": "20230108T03:48:00Z",
+      "content": "The Denver Broncos front office has turned their attention to 2023. After firing firstyear head coach Nathaniel Hackett the day after Christmas, the franchise will again embark on a head coaching se… [+2089 chars]"
+    },
+    {
+      "source": {
+        "id": "thewashingtonpost",
+        "name": "The Washington Post"
+      },
+      "author": "Babak Dehghanpisheh, Miriam Berger",
+      "title": "Iran hangs two more people in brutal campaign against protesters  The Washington Post",
+      "description": "They are the third and fourth protesters to be executed by the government.",
+      "url": "https://www.washingtonpost.com/world/2023/01/07/iranexecutionsprotesters/",
+      "urlToImage": "https://www.washingtonpost.com/wpapps/imrs.php?src=https://arcanglerfishwashpostprodwashpost.s3.amazonaws.com/public/N54DYXOK6ABQOCWQIP7APMXRSU.jpg&w=1440",
+      "publishedAt": "20230107T23:54:00Z",
+      "content": "Comment on this story\r\nIran hanged two men tied to antigovernment protests on Saturday, continuing a trend of using capital punishment to suppress dissent. The government has also killed hundreds of… [+5190 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DawgNation"
+      },
+      "author": "Mike Griffith",
+      "title": "Kirk Herbstreit: Concerns for Georgia against TCU, but Kirby Smart 'now the standard'  DawgNation",
+      "description": "",
+      "url": "https://www.DawgNation.com/secchampionship/georgiaconcern/FQUONC2IWVDONAWDUQLKTD5LX4/",
+      "urlToImage": "https://www.dawgnation.com/resizer/KdzUg7IEBbyqzq39pQ6ypUGB5Hw=/1280x673/smart/cloudfrontuseast1.images.arcpublishing.com/ajc/3ZU2I5X7PYUE6GZNKVKZR2ERIM.JPG",
+      "publishedAt": "20230107T23:46:38Z",
+      "content": "LOS ANGELES Kirk Herbstreit is all in on Georgia football, but he has some concerns about Monday nights game.\r\nThe No. 1ranked Bulldogs could be on the verge of becoming the first team of the CFP Er… [+2041 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Ian Mohr, Sara Nathan",
+      "title": "Royals set up a 'war room' amid fears over Prince Harry's 'Spare' memoir  Page Six",
+      "description": "King Charles and Prince William set up a royal ‘war room’ to deal with any potential fallout from Prince Harry’s bombshell memoir, Page Six can reveal.",
+      "url": "https://pagesix.com/2023/01/07/royalssetupwarroomoverprinceharryssparememoir/",
+      "urlToImage": "https://pagesix.com/wpcontent/uploads/sites/3/2023/01/royalwarroomprinceharrybookspare0029.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "20230107T23:43:00Z",
+      "content": "The royal family’s senior advisers set up a defacto “war room” to deal with any potential fallout from Prince Harry’s bombshell memoir, Page Six can reveal.\r\nTop staff even discussed the situation a… [+6069 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jack Baer",
+      "title": "Damar Hamlin thanks everyone for support in first social media posts since cardiac arrest  Yahoo Sports",
+      "description": "The Bills safety called the love he's received \"overwhelming.\"",
+      "url": "https://sports.yahoo.com/damarhamlinthankseveryoneforsupportinfirstsocialmediapostssincecardiacarrest225214761.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IjYvsHBDvcpMn0.F6ypXew/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTM/https://s.yimg.com/os/creatruploadedimages/202212/e45717308b2f11ed9dfa4e674334e6d2",
+      "publishedAt": "20230107T22:52:14Z",
+      "content": "Damar Hamlin's recovery has progressed to the point that the Buffalo Bills safety has posted his first public statement.\r\nFive days after Hamlin went into cardiac arrest on the field of a \"Monday Nig… [+2039 chars]"
+    }
+  ]
+}
